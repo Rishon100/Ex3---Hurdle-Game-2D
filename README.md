@@ -58,7 +58,7 @@ public class player : MonoBehaviour
     
 }
 ```
-## score
+## Score
 ```
 using System.Collections;
 using System.Collections.Generic;
