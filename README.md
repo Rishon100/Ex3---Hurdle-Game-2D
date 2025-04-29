@@ -19,7 +19,7 @@ STEP 6: Drag the script to player and coin.
 STEP 7:Run the scene and display the output.
 
 ## PROGRAM:
-Player
+## Player
 ```
 using System.Collections;
 using System.Collections.Generic;
@@ -58,7 +58,7 @@ public class player : MonoBehaviour
     
 }
 ```
-score
+## score
 ```
 using System.Collections;
 using System.Collections.Generic;
