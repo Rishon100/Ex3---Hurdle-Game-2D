@@ -86,5 +86,7 @@ public class Score : MonoBehaviour
 
 ## OUTPUT:
 ![alt text](image.png)
+
+![alt text](<Screenshot 2025-04-29 144721.png>)
 ## RESULT:
 Thus a 2D game using C# program in unity is developed successfully.
